@@ -17,7 +17,7 @@ This Full Stack Project, Work Tracker App, is an implementation of the existing 
    ```
 3. Start the Spring Boot application:
 5. It's already running on AWS so using the commands below you can check using Postman:
-6. React is connected to React by Axios, it has to work if cors("hhtp://localhost:3300") --> StaffContoller & RecordController
+6. Spring Boot is connected to React by Axios, it has to work if cors("hhtp://localhost:3300") --> StaffContoller & RecordController
 
 ## Backend Setup
 
