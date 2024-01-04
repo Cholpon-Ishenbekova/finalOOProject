@@ -2,7 +2,7 @@
 
 ## Overview
 
-This Full Stack Project, Work Tracker App, is an implementation of the existing frontend project, "Work Time Tracker App." This project introduces a backend that includes functionalities such as managing records and staff, and providing operations for creating, updating, and deleting records and staff members.
+This Full Stack Project, Work Tracker App, is an implementation of the existing frontend project, "Work Time Tracker App." This project introduces a backend that includes functionalities such as managing records and staff and providing operations for creating, updating, and deleting records and staff members.
 
 ## Getting Started (Frontend)
 
@@ -15,7 +15,9 @@ This Full Stack Project, Work Tracker App, is an implementation of the existing 
    ```bash
    npm start
    ```
-   
+3. Start the Spring Boot application:
+5. It's already running on AWS so using the commands below you can check using Postman:
+6. React is connected to React by Axios, it has to work if cors("hhtp://localhost:3300") --> StaffContoller & RecordController
 
 ## Backend Setup
 
